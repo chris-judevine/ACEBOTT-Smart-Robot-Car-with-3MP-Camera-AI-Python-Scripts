@@ -11,7 +11,7 @@ import argparse
 import esp32_wifi
 
 # Command set toggle
-USE_AUTO_STOP_CMD = False   # firmware brake requires custom firmware
+USE_AUTO_STOP_CMD = False   # firmware brake requires custom test firmware
 
 # AI Brake Toggle
 USE_AI_BRAKE = True         # True enables AI brake if too close
