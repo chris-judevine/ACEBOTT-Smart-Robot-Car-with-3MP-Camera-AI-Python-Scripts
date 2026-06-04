@@ -40,7 +40,7 @@ def quit_pressed():
 BASE_URL = "http://192.168.4.1:81/control"
 STREAM_URL = "http://192.168.4.1/Stream"
 
-USE_AUTO_STOP_CMD = False   # firmware brake needs custom firmware
+USE_AUTO_STOP_CMD = False   # firmware brake needs custom test firmware
 USE_SLOW_PULSE = True       # extra slow scanning
 USE_AI_BRAKE = True         # AI brake
 
