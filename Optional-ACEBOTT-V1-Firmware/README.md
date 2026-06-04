@@ -1,4 +1,4 @@
-# ACEBOTT Smart Car V1 - Firmware (Modified)
+# Optional ACEBOTT Smart Car V1 - Firmware (Modified)
 
 A modified version of the stock **ACEBOTT Smart Car V1 ESP32-CAM firmware**. This update extends the default configuration web server by adding new command set with auto-braking mechanics.
 
