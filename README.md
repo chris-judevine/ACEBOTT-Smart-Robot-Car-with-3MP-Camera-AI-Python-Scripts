@@ -98,7 +98,6 @@ Whenever a camera stream window is active, the system listens directly to your O
 Inside both tracking scripts, you can customize the vehicle's handling characteristics by toggling these global booleans:
 
 ```python
-USE_AUTO_STOP_CMD = False   # Set to True if firmware supports automatic motor braking (Need Custom Firmware)
 USE_AI_BRAKE = True         # Set to True to halt forward progression if target fills the frame
 
 ```
